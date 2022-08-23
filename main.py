@@ -1,1 +1,2 @@
 ##the main 
+print("hi")
